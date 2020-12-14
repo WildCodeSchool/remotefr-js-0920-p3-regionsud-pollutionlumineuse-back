@@ -1,0 +1,17 @@
+### get mots-clés
+GET http://localhost:3000/mot-message-cle
+
+### get messages-clés
+GET http://localhost:3000/mot-message-cle
+
+### get définitions
+GET http://localhost:3000/definition
+
+### get pratique
+GET http://localhost:3000/pratique
+
+### get jeu
+GET http://localhost:3000/jeu
+
+### get ressource
+GET http://localhost:3000/ressource
